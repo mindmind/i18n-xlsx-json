@@ -1,0 +1,28 @@
+{
+  "name": "i18n-xlsx-json",
+  "version": "0.0.1",
+  "description": "script for parsing xlsx to i18n json-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindmind/i18n-xlsx-json.git"
+  },
+  "keywords": [
+    "i18n",
+    "xlsx",
+    "json"
+  ],
+  "author": "mindmind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindmind/i18n-xlsx-json/issues"
+  },
+  "homepage": "https://github.com/mindmind/i18n-xlsx-json#readme",
+  "dependencies": {
+    "xlsx": "0.7.12",
+    "csv": "~0.3.6"
+  }
+}
